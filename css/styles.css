@@ -1,0 +1,61 @@
+body {
+    background-color: #393e46;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #e497cd;
+    border-width: 10px;
+    width: 6%;
+}
+
+.heading {
+    color: #d77fa1;
+    font-family: 'Courier Prime', monospace;
+    font-weight: normal;
+}
+.circular {
+    border-radius: 40%;
+}
+
+h1 {
+    color: #e497cd;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: normal;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+table {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+a:visited {
+    color: #e497cd;
+}
+
+a {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#profile {
+    height: 50%;
+}
+#profile:hover {
+    height: 100%;
+}
